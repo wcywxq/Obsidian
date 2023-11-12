@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git 知识库/code review 规范.md",
+                "file": "八股文 eight-part essay writing/NodeJS/koa.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -33,16 +33,6 @@
         "id": "4c6164bdbc48c666",
         "type": "tabs",
         "children": [
-          {
-            "id": "ee906366be50c100",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "435137fc76d35983",
             "type": "leaf",
@@ -65,12 +55,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f20c19f843ae697d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "right": {
     "id": "b5bfeafd50690429",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git 知识库/code review 规范.md",
+                "file": "八股文 eight-part essay writing/NodeJS/koa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git 知识库/code review 规范.md",
+                "file": "八股文 eight-part essay writing/NodeJS/koa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,22 +122,22 @@
             }
           },
           {
-            "id": "6688549c84e93f16",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Git 知识库/code review 规范.md"
-              }
-            }
-          },
-          {
-            "id": "427a0ce35ff4578a",
+            "id": "287905a7625d372e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "a6963b314ce0bb03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "八股文 eight-part essay writing/NodeJS/koa.md"
               }
             }
           }
@@ -148,19 +149,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "publish:发布更改": false,
-      "workspaces:管理工作区布局": false
+      "switcher:打开快速切换": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "48231ec2fb858e67",
+  "active": "1696bda18e687e09",
   "lastOpenFiles": [
+    "八股文 eight-part essay writing/assets/boce40/1647342652227-761c4858-30be-43b2-93a0-3cf0f0f81648.png",
+    "八股文 eight-part essay writing/assets/ae6e6m/1651743183816-ed2571e8-fd14-450e-a48f-a2574f26c4e5.png",
+    "Git 知识库/常用 git 命令.md",
+    "Git 知识库/code review 规范.md",
+    "Git 知识库/commit message 代码提交信息规范.md",
     "项目 project/assets/axtgz0utigbgne3g/1699508023913-09180d5d-288a-46c5-bfa3-69ffff7eec2d.png",
     "项目 project/BOT 防护/浏览器指纹验证.md",
     "项目 project/BOT 防护/工作量证明 Pow.md",
@@ -189,7 +194,6 @@
     "项目梳理/assets/hgoyws/1650699968107-bfe9dc4d-2cdf-4e5b-93a1-c773a1d2766e.png",
     "项目梳理/assets/flzwri/1657000497150-644f2744-2ea7-4fa0-8755-16394cc5c9d7.png",
     "项目梳理/assets/flzwri/1657000472275-1181d196-a4d6-4229-a7b1-b1ffc1ce08aa.png",
-    "项目梳理/assets/bp0lie/1647788931569-ff27bf88-cbf2-426b-a218-f9b25d290548.png",
     "项目梳理/项目/长列表性能优化.md",
     "项目梳理/项目/滴滴出行小程序",
     "项目梳理/项目/小程序体验分优化.md",
@@ -203,10 +207,6 @@
     "项目梳理/小程序接入原子化 css 样式库并支持分包输出/备忘录.md",
     "项目梳理/assets/qf3q0x",
     "项目梳理/面经.md",
-    "项目梳理/自我介绍.md",
-    "项目梳理/研发流程.md",
-    "项目梳理/字节面经.md",
-    "编程语言文档索引/assets/nfs1ot/pointer_to_pointer.jpg",
     "未命名.canvas"
   ]
 }

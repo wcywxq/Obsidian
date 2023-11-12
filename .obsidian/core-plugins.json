@@ -19,8 +19,5 @@
   "markdown-importer",
   "outline",
   "word-count",
-  "workspaces",
-  "file-recovery",
-  "publish",
-  "sync"
+  "file-recovery"
 ]
