@@ -159,6 +159,8 @@
   },
   "active": "48231ec2fb858e67",
   "lastOpenFiles": [
+    "未命名.md",
+    "开发必备技巧 development must-have skills/开发者工具.md",
     "开发必备技巧 development must-have skills/assets/xkhorh/1606963302502-b4507a3c-9d9f-4653-ad80-353e509adf07.png",
     "开发必备技巧 development must-have skills/assets/xkhorh/1606963059293-544a6af9-6f7c-40c1-9c70-0953335483ef.png",
     "开发必备技巧 development must-have skills/assets/xkhorh/1606962961066-f8c6bcff-e407-4e61-a727-4f67246c1891.png",
@@ -174,7 +176,6 @@
     "未命名.canvas",
     "八股文 eight-part essay writing/NodeJS/koa.md",
     "八股文 eight-part essay writing/assets/boce40/1647342652227-761c4858-30be-43b2-93a0-3cf0f0f81648.png",
-    "八股文 eight-part essay writing/assets/ae6e6m/1651743183816-ed2571e8-fd14-450e-a48f-a2574f26c4e5.png",
     "Git 知识库/常用 git 命令.md",
     "Git 知识库/commit message 代码提交信息规范.md",
     "项目 project/BOT 防护/浏览器指纹验证.md",
@@ -204,7 +205,6 @@
     "项目梳理/项目/mpx.md",
     "项目梳理/项目/TypeScript 在团队内部的实践总结.md",
     "项目梳理/小程序接入原子化 css 样式库并支持分包输出/架构设计.md",
-    "项目梳理/小程序接入原子化 css 样式库并支持分包输出/备忘录.md",
     "项目梳理/assets/qf3q0x"
   ]
 }
