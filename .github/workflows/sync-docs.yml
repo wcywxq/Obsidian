@@ -1,0 +1,37 @@
+name: Sync Docs to Wiki
+
+on:
+  push:
+    branches:
+      - main  # 根据你的主分支设置
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+        shell: bash
+
+      - name: Copy docs to wiki
+        run: |
+          mkdir -p wiki
+          cp -r docs/* wiki/
+        shell: bash
+
+      - name: Initialize and push to wiki
+        run: |
+          cd wiki
+          git init
+          git add .
+          git commit -m "Sync docs to wiki"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.wiki.git"
+          git push --force --set-upstream origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

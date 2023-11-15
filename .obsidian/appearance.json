@@ -1,9 +1,8 @@
 {
   "accentColor": "",
-  "theme": "system",
   "cssTheme": "Things",
-  "interfaceFontFamily": "Lucida Sans Typewriter",
-  "monospaceFontFamily": "Lucida Sans Typewriter,Ubuntu Mono derivative Powerline",
+  "theme": "system",
+  "monospaceFontFamily": "Lucida Sans Typewriter",
   "textFontFamily": "Lucida Sans Typewriter",
-  "translucency": false
+  "interfaceFontFamily": "Lucida Sans Typewriter"
 }

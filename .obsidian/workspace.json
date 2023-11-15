@@ -1,21 +1,20 @@
 {
   "main": {
-    "id": "7130117a15207410",
+    "id": "9c3ae97a2f0954e7",
     "type": "split",
     "children": [
       {
-        "id": "fb23e5b52c875d28",
+        "id": "f297ad5599c25829",
         "type": "tabs",
         "children": [
           {
-            "id": "48231ec2fb858e67",
+            "id": "b540294ee5b0aa05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发必备技巧 development must-have skills/开发者工具.md",
-                "mode": "preview",
-                "backlinks": false,
+                "file": "docs/开发必备技巧 development must-have skills/开发者工具.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -26,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0a280ff3a1982f9c",
+    "id": "cf7e37076b44c7c1",
     "type": "split",
     "children": [
       {
-        "id": "4c6164bdbc48c666",
+        "id": "302386d8dd5573c5",
         "type": "tabs",
         "children": [
           {
-            "id": "f20c19f843ae697d",
+            "id": "65a8ff44b00cd988",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +43,7 @@
             }
           },
           {
-            "id": "435137fc76d35983",
+            "id": "28e5b3ae8858dbd1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +58,7 @@
             }
           },
           {
-            "id": "1696bda18e687e09",
+            "id": "304fce9f77c7d4f6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 300
   },
   "right": {
-    "id": "b5bfeafd50690429",
+    "id": "f97ff3ee1bc3c469",
     "type": "split",
     "children": [
       {
-        "id": "c9b081027618650f",
+        "id": "d9f20db18a0047ab",
         "type": "tabs",
         "children": [
           {
-            "id": "b787158987e7965f",
+            "id": "e774491ea76684b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发必备技巧 development must-have skills/开发者工具.md",
+                "file": "docs/开发必备技巧 development must-have skills/开发者工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +97,19 @@
             }
           },
           {
-            "id": "0e59c140f263b4b5",
+            "id": "4ec4fafc11154039",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发必备技巧 development must-have skills/开发者工具.md",
+                "file": "docs/开发必备技巧 development must-have skills/开发者工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ac9287d275a45b46",
+            "id": "63aa0647d58b68c9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,22 +120,12 @@
             }
           },
           {
-            "id": "287905a7625d372e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "a6963b314ce0bb03",
+            "id": "8e2618146ed5f411",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发必备技巧 development must-have skills/开发者工具.md"
+                "file": "docs/开发必备技巧 development must-have skills/开发者工具.md"
               }
             }
           }
@@ -144,67 +133,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "switcher:打开快速切换": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "48231ec2fb858e67",
+  "active": "b540294ee5b0aa05",
   "lastOpenFiles": [
+    "docs/Git 知识库/code review 规范.md",
     "未命名.md",
-    "开发必备技巧 development must-have skills/开发者工具.md",
-    "开发必备技巧 development must-have skills/assets/xkhorh/1606963302502-b4507a3c-9d9f-4653-ad80-353e509adf07.png",
-    "开发必备技巧 development must-have skills/assets/xkhorh/1606963059293-544a6af9-6f7c-40c1-9c70-0953335483ef.png",
-    "开发必备技巧 development must-have skills/assets/xkhorh/1606962961066-f8c6bcff-e407-4e61-a727-4f67246c1891.png",
-    "开发必备技巧 development must-have skills/assets/xkhorh/1606962788973-1b1642f8-c89b-4ad6-a58a-62c3b386cfe5.png",
-    "开发必备技巧 development must-have skills/assets/xkhorh/1606962755747-0c7f7146-c878-47de-9ce8-b686d323fdbf.png",
-    "开发必备技巧 development must-have skills/assets/xkhorh/1606962692139-67609724-968f-48a4-b9cb-d3a17e89ef35.png",
-    "开发必备技巧 development must-have skills/assets/xkhorh/1606962607992-66922bde-af81-4856-a03a-920c36bb1671.png",
-    "开发必备技巧 development must-have skills/assets/xkhorh/1606962517481-012784d3-353b-47a6-a7ff-78abf31f6f32.png",
-    "开发必备技巧 development must-have skills/assets/xkhorh/1606962134298-7d0081df-45c3-497b-9ede-a1354c8a667e.png",
-    "项目 project/BOT 防护/工作量证明 Pow.md",
-    "项目 project/流式检测.md",
-    "Git 知识库/code review 规范.md",
+    "assets",
     "未命名.canvas",
-    "八股文 eight-part essay writing/NodeJS/koa.md",
-    "八股文 eight-part essay writing/assets/boce40/1647342652227-761c4858-30be-43b2-93a0-3cf0f0f81648.png",
-    "Git 知识库/常用 git 命令.md",
-    "Git 知识库/commit message 代码提交信息规范.md",
-    "项目 project/BOT 防护/浏览器指纹验证.md",
-    "项目 project/assets/axtgz0utigbgne3g",
-    "项目 project/性能优化",
-    "项目 project/BOT 防护",
-    "项目 project/assets",
-    "项目 project/RBAC",
-    "项目 project/GeoJSON 和 TopoJSON 转换",
-    "项目 project",
-    "项目 Project/流式检测.md",
-    "项目梳理/项目/滴滴出行小程序/行程中.md",
-    "项目梳理/项目/滴滴出行小程序/小程序包体积优化.md",
-    "项目梳理/项目/滴滴出行小程序/冒泡页.md",
-    "项目梳理/项目/滴滴出行小程序/mpx 性能优化.md",
-    "项目梳理/项目/小程序上线管理平台/数据库表设计.md",
-    "项目梳理/项目/小程序上线管理平台/发布方式.md",
-    "项目梳理/项目/小程序上线管理平台/原型设计.md",
-    "项目梳理/项目/小程序上线管理平台/介绍.md",
-    "项目梳理/项目/长列表性能优化.md",
-    "项目梳理/项目/滴滴出行小程序",
-    "项目梳理/项目/小程序体验分优化.md",
-    "项目梳理/项目/小程序上线管理平台",
-    "项目梳理/项目/利用 ts + proxy 增强 api 类型推导功能.md",
-    "项目梳理/项目/人工审核系统.md",
-    "项目梳理/项目/webx.md",
-    "项目梳理/项目/mpx.md",
-    "项目梳理/项目/TypeScript 在团队内部的实践总结.md",
-    "项目梳理/小程序接入原子化 css 样式库并支持分包输出/架构设计.md",
-    "项目梳理/assets/qf3q0x"
+    "2023-11-13.md"
   ]
 }
