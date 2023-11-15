@@ -1,8 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Things",
+  "cssTheme": "GitHub Theme",
   "theme": "system",
   "monospaceFontFamily": "Lucida Sans Typewriter",
   "textFontFamily": "Lucida Sans Typewriter",
-  "interfaceFontFamily": "Lucida Sans Typewriter"
+  "interfaceFontFamily": "Lucida Sans Typewriter",
+  "baseFontSize": 16
 }
