@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/八股文 eight-part essay writing/JavaScript/AMD、CMD、UMD、CJS、ESM.md",
+                "file": "docs/八股文 new/javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/八股文 eight-part essay writing/JavaScript/AMD、CMD、UMD、CJS、ESM.md",
+                "file": "docs/八股文 new/javascript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/八股文 eight-part essay writing/JavaScript/AMD、CMD、UMD、CJS、ESM.md",
+                "file": "docs/八股文 new/javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/八股文 eight-part essay writing/JavaScript/AMD、CMD、UMD、CJS、ESM.md"
+                "file": "docs/八股文 new/javascript.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "778cc9844d6d3732",
   "lastOpenFiles": [
+    "docs/八股文 eight-part essay writing/JavaScript/ajax、jsonp、fetch.md",
+    "docs/八股文 eight-part essay writing/JavaScript/AMD、CMD、UMD、CJS、ESM.md",
     "docs/八股文 new/javascript.md",
     "docs/八股文 new/node.js.md",
     "docs/八股文 new/html5.md",
