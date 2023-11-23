@@ -8,31 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "778cc9844d6d3732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/#1 两数之和.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ce93bcb0f1b3f715",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Leetcode/#129 求根到叶子节点数字之和.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Leetcode/#129 求根到叶子节点数字之和.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Leetcode/#129 求根到叶子节点数字之和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Leetcode/#129 求根到叶子节点数字之和.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,51 +142,52 @@
   },
   "active": "ce93bcb0f1b3f715",
   "lastOpenFiles": [
-    "docs/Leetcode/#1 两数之和.md",
-    "docs/Leetcode/assets/ffmgi1/1608705678789-52782829-c6a7-4d0c-a933-22302eb65a58.png",
-    "docs/Leetcode/#21 合并两个有序链表.md",
-    "docs/Leetcode/#20 有效的括号.md",
-    "docs/Leetcode/#3 无重复字符的最长子串.md",
-    "docs/Leetcode/#5 最长回文子串.md",
-    "docs/未命名.md",
-    "docs/八股文 new/框架.md",
-    "docs/八股文 new/小程序.md",
-    "docs/八股文 new/html5.md",
-    "docs/八股文 new/css3.md",
-    "storage/Leetcode/#42 接雨水.md",
-    "storage/Leetcode/assets/mtz77i/1608705746422-bc6ae42d-4e42-4012-b984-b85746b53b21.png",
-    "storage/Leetcode/assets/ffmgi1/1608705700789-28d4b832-dbeb-4310-ae08-edb570e72d00.png",
-    "storage/Leetcode/assets/ffmgi1/1608705699970-21abffba-e300-40f8-9a10-bdcb4521a4e1.png",
-    "storage/Leetcode/assets/ffmgi1/1608705678789-52782829-c6a7-4d0c-a933-22302eb65a58.png",
-    "storage/Leetcode/#1 两数之和.md",
-    "storage/Leetcode/#4 寻找两个正序数组的中位数.md",
-    "storage/Leetcode/#155 最小栈.md",
-    "storage/Leetcode/#209 长度最小的子数组.md",
-    "storage/Leetcode/#226 翻转二叉树.md",
-    "storage/Leetcode/#443 压缩字符串.md",
-    "storage/Leetcode/#1071 字符串的最大公因子.md",
-    "storage/Leetcode/#1143 最长公共子序列.md",
-    "storage/算法 algorithm/assets/ub10iw/1646368342830-5ee4d804-f8a6-494d-aa9d-3d54aebc20aa.png",
-    "storage/项目 project/BOT 防护/浏览器指纹验证.md",
-    "storage/项目 project/流式检测.md",
-    "storage/项目 project/性能优化",
-    "storage/项目 project/RBAC",
-    "storage/项目 project/GeoJSON 和 TopoJSON 转换",
-    "storage/项目 project/BOT 防护",
-    "storage/项目 project",
-    "storage/算法 algorithm/assets/xi2mh9/1646367650656-a3db3098-012f-48b1-9072-363e383678b5.png",
-    "storage/算法 algorithm/assets/dgduok/1646359204782-45e54d18-2341-48fa-bdc4-2d96b4a94202.png",
-    "storage/算法 algorithm/assets/glas5w/1646366269506-0f79bff0-9217-49a5-889b-39da82b1ef61.png",
-    "storage/算法 algorithm/assets/mo7sde/1608704395087-c23664dd-c205-44d5-9e63-870bf14ec0b1.png",
-    "storage/算法 algorithm/assets/aq5vbp",
-    "storage/算法 algorithm/assets/dgduok",
-    "storage/算法 algorithm/assets/ub10iw",
+    "storage/八股文 new/node.js.md",
     "storage/八股文 eight-part essay writing/Html",
     "storage/八股文 eight-part essay writing",
-    "storage/八股文 new/node.js.md",
+    "storage/八股文 new/小程序.md",
+    "storage/八股文 new/构建工具.md",
+    "storage/算法 algorithm/assets/xi2mh9/1646367698991-76170915-1cbb-400b-835f-1ffa2ea571a9.png",
+    "storage/算法 algorithm/assets/aq5vbp/1646368655095-ed011a25-7207-4935-b32f-0d16faf4e827.png",
+    "storage/算法 algorithm/assets/dgduok/1646359226362-2c31bf00-76bb-4511-a668-ec07ef77921e.png",
+    "storage/八股文 new/assets/gzo4vg97gz8ff9ot/1700256055361-d609be7e-7f21-43d7-88f5-f464da0c450c.png",
+    "storage/八股文 new/assets/wp44gz2g4tg4sk9g/1700410775213-9d6edef5-5365-4dcf-8858-14c8d13fc68e.png",
+    "storage/八股文 new/assets/wp44gz2g4tg4sk9g",
+    "storage/八股文 new/assets/gzo4vg97gz8ff9ot",
+    "storage/八股文 new/assets",
     "storage/八股文 new/计算机网络.md",
     "storage/八股文 new/框架.md",
-    "storage/八股文 new/构建工具.md",
+    "storage/八股文 new/html5.md",
+    "storage/八股文 new",
+    "storage/Leetcode/assets/ffmgi1/1608705678789-52782829-c6a7-4d0c-a933-22302eb65a58.png",
+    "storage/Leetcode/assets/ffmgi1",
+    "storage/Leetcode/1768 交替合并字符串.md",
+    "storage/Leetcode/1431 拥有最多糖果的孩子.md",
+    "storage/Leetcode/605 种花问题.md",
+    "storage/Leetcode/1143 最长公共子序列.md",
+    "storage/Leetcode/1071 字符串的最大公因子.md",
+    "storage/Leetcode/509 斐波那契数.md",
+    "storage/Leetcode/443 压缩字符串.md",
+    "storage/Leetcode/415 字符串相加.md",
+    "storage/Leetcode/345 反转字符串中的元音字母.md",
+    "storage/项目梳理/项目/滴滴出行小程序/冒泡页.md",
+    "storage/算法 algorithm/assets/dgduok/1646359226296-96283b12-d7fd-44bb-8960-5b82cf258204.png",
+    "storage/Leetcode/334 递增的三元子序列.md",
+    "storage/Leetcode/322 零钱兑换.md",
+    "storage/Leetcode/238 除自身以外数组的乘积.md",
+    "storage/算法 algorithm/assets/mo7sde/1608705120449-8a4c3bff-e7e3-4338-883f-c230e291392b.png",
+    "storage/Leetcode/226 翻转二叉树.md",
+    "storage/Leetcode/215 数组中的第K个最大元素.md",
+    "storage/Leetcode/209 长度最小的子数组.md",
+    "storage/Leetcode/200 岛屿数量.md",
+    "storage/Leetcode/206 反转链表.md",
+    "storage/Leetcode/169 多数元素.md",
+    "storage/Leetcode/162 寻找峰值.md",
+    "storage/算法 algorithm/assets/dgduok/1646359226265-8f9cea7c-3845-4ed4-88b7-81e5af6a0f9b.png",
+    "storage/算法 algorithm/assets/mo7sde/1608705111553-9ff6c07c-5b98-408d-952e-625082c91c70.png",
+    "storage/Leetcode/assets/mtz77i",
+    "storage/Leetcode/assets",
+    "storage/算法 algorithm/assets/dgduok",
     "未命名.canvas"
   ]
 }
