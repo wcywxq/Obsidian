@@ -1,0 +1,73 @@
+[
+  {
+    "type": "META",
+    "count": 4,
+    "display_level": 1,
+    "tail_type": "UPDATED_AT",
+    "base_version_id": 370934453,
+    "published": true,
+    "max_level": 0,
+    "last_updated_at": "2023-11-14T10:14:24.375Z",
+    "version_id": 370934502
+  },
+  {
+    "type": "DOC",
+    "title": "typescrirpt 装饰器",
+    "uuid": "QTMp6Kf11tG7OQd6",
+    "url": "iig77g48cbbnpl2x",
+    "prev_uuid": "",
+    "sibling_uuid": "XnzqFLBUeAXrazLq",
+    "child_uuid": "",
+    "parent_uuid": "",
+    "doc_id": 146790035,
+    "level": 0,
+    "id": 146790035,
+    "open_window": 1,
+    "visible": 1
+  },
+  {
+    "type": "DOC",
+    "title": "vscode debug 配置",
+    "uuid": "XnzqFLBUeAXrazLq",
+    "url": "kkkdxxhl1tgpogsf",
+    "prev_uuid": "QTMp6Kf11tG7OQd6",
+    "sibling_uuid": "slUIXTfyIPSf11if",
+    "child_uuid": "",
+    "parent_uuid": "",
+    "doc_id": 146791177,
+    "level": 0,
+    "id": 146791177,
+    "open_window": 1,
+    "visible": 1
+  },
+  {
+    "type": "DOC",
+    "title": "package.json 版本号前缀介绍",
+    "uuid": "slUIXTfyIPSf11if",
+    "url": "yb8f8vco0xtnhrqk",
+    "prev_uuid": "XnzqFLBUeAXrazLq",
+    "sibling_uuid": "bn-T3-NEjet9t2GG",
+    "child_uuid": "",
+    "parent_uuid": "",
+    "doc_id": 146791457,
+    "level": 0,
+    "id": 146791457,
+    "open_window": 1,
+    "visible": 1
+  },
+  {
+    "type": "DOC",
+    "title": "type-coverage",
+    "uuid": "bn-T3-NEjet9t2GG",
+    "url": "lo37xirhvqrp1is1",
+    "prev_uuid": "slUIXTfyIPSf11if",
+    "sibling_uuid": "",
+    "child_uuid": "",
+    "parent_uuid": "",
+    "doc_id": 146925143,
+    "level": 0,
+    "id": 146925143,
+    "open_window": 1,
+    "visible": 1
+  }
+]

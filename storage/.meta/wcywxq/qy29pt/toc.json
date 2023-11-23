@@ -1,0 +1,73 @@
+[
+  {
+    "type": "META",
+    "count": 4,
+    "display_level": 1,
+    "tail_type": "UPDATED_AT",
+    "base_version_id": 184931287,
+    "published": true,
+    "max_level": 1,
+    "last_updated_at": "2022-03-13T10:00:48.616Z",
+    "version_id": 184931442
+  },
+  {
+    "type": "TITLE",
+    "title": "MySQL",
+    "uuid": "2aUyvvyx_wRVRxwL",
+    "url": "",
+    "prev_uuid": "",
+    "sibling_uuid": "jbF3UKYOvVQVjlcG",
+    "child_uuid": "jZPtLLFbMMri7vdS",
+    "parent_uuid": "",
+    "doc_id": "",
+    "level": 0,
+    "id": "",
+    "open_window": 1,
+    "visible": 1
+  },
+  {
+    "type": "DOC",
+    "title": "事务",
+    "uuid": "jZPtLLFbMMri7vdS",
+    "url": "vobym9",
+    "prev_uuid": "2aUyvvyx_wRVRxwL",
+    "sibling_uuid": "",
+    "child_uuid": "",
+    "parent_uuid": "2aUyvvyx_wRVRxwL",
+    "doc_id": 67256062,
+    "level": 1,
+    "id": 67256062,
+    "open_window": 1,
+    "visible": 1
+  },
+  {
+    "type": "TITLE",
+    "title": "MongoDB",
+    "uuid": "jbF3UKYOvVQVjlcG",
+    "url": "",
+    "prev_uuid": "2aUyvvyx_wRVRxwL",
+    "sibling_uuid": "",
+    "child_uuid": "F3mZtosufzc6ePmv",
+    "parent_uuid": "",
+    "doc_id": "",
+    "level": 0,
+    "id": "",
+    "open_window": 1,
+    "visible": 1
+  },
+  {
+    "type": "DOC",
+    "title": "文档索引",
+    "uuid": "F3mZtosufzc6ePmv",
+    "url": "vy4087",
+    "prev_uuid": "jbF3UKYOvVQVjlcG",
+    "sibling_uuid": "",
+    "child_uuid": "",
+    "parent_uuid": "jbF3UKYOvVQVjlcG",
+    "doc_id": 11465923,
+    "level": 1,
+    "id": 11465923,
+    "open_window": 1,
+    "visible": 1
+  }
+]

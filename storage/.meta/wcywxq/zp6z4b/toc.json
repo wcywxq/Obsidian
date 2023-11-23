@@ -1,0 +1,28 @@
+[
+  {
+    "type": "META",
+    "count": 1,
+    "display_level": 1,
+    "tail_type": "UPDATED_AT",
+    "base_version_id": 179318187,
+    "max_level": 0,
+    "last_updated_at": "2023-11-11T18:19:58.584Z",
+    "published": true,
+    "version_id": 370015292
+  },
+  {
+    "type": "DOC",
+    "title": "开发者工具",
+    "uuid": "2Xe7bsO7R2cDE5ag",
+    "url": "xkhorh",
+    "prev_uuid": "",
+    "sibling_uuid": "",
+    "child_uuid": "",
+    "parent_uuid": "",
+    "doc_id": 16861103,
+    "level": 0,
+    "id": 16861103,
+    "open_window": 1,
+    "visible": 1
+  }
+]
