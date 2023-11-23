@@ -11,11 +11,28 @@
             "id": "778cc9844d6d3732",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/#1 两数之和.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce93bcb0f1b3f715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Leetcode/#129 求根到叶子节点数字之和.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Leetcode/#129 求根到叶子节点数字之和.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Leetcode/#129 求根到叶子节点数字之和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Leetcode/#129 求根到叶子节点数字之和.md"
+              }
             }
           }
         ],
@@ -126,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,8 +161,19 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "778cc9844d6d3732",
+  "active": "ce93bcb0f1b3f715",
   "lastOpenFiles": [
+    "docs/Leetcode/#1 两数之和.md",
+    "docs/Leetcode/assets/ffmgi1/1608705678789-52782829-c6a7-4d0c-a933-22302eb65a58.png",
+    "docs/Leetcode/#21 合并两个有序链表.md",
+    "docs/Leetcode/#20 有效的括号.md",
+    "docs/Leetcode/#3 无重复字符的最长子串.md",
+    "docs/Leetcode/#5 最长回文子串.md",
+    "docs/未命名.md",
+    "docs/八股文 new/框架.md",
+    "docs/八股文 new/小程序.md",
+    "docs/八股文 new/html5.md",
+    "docs/八股文 new/css3.md",
     "storage/Leetcode/#42 接雨水.md",
     "storage/Leetcode/assets/mtz77i/1608705746422-bc6ae42d-4e42-4012-b984-b85746b53b21.png",
     "storage/Leetcode/assets/ffmgi1/1608705700789-28d4b832-dbeb-4310-ae08-edb570e72d00.png",
@@ -166,7 +199,6 @@
     "storage/算法 algorithm/assets/dgduok/1646359204782-45e54d18-2341-48fa-bdc4-2d96b4a94202.png",
     "storage/算法 algorithm/assets/glas5w/1646366269506-0f79bff0-9217-49a5-889b-39da82b1ef61.png",
     "storage/算法 algorithm/assets/mo7sde/1608704395087-c23664dd-c205-44d5-9e63-870bf14ec0b1.png",
-    "storage/算法 algorithm/assets/aq5vbp/1646368542821-e21547f7-16a8-4cc5-9aaf-b804f938c10f.png",
     "storage/算法 algorithm/assets/aq5vbp",
     "storage/算法 algorithm/assets/dgduok",
     "storage/算法 algorithm/assets/ub10iw",
@@ -176,17 +208,6 @@
     "storage/八股文 new/计算机网络.md",
     "storage/八股文 new/框架.md",
     "storage/八股文 new/构建工具.md",
-    "storage/八股文 new/小程序.md",
-    "storage/八股文 new/html5.md",
-    "storage/项目梳理/项目/滴滴出行小程序/冒泡页.md",
-    "storage/算法 algorithm/#380 O(1)时间插入、删除和获取随机元素.md",
-    "storage/算法 algorithm/动态规划.md",
-    "storage/项目梳理/项目/滴滴出行小程序/mpx 性能优化.md",
-    "storage/项目梳理/项目/滴滴出行小程序/小程序包体积优化.md",
-    "storage/算法 algorithm/数据结构/队列 queue.md",
-    "storage/项目梳理/项目/mpx.md",
-    "storage/算法 algorithm/数据结构/字符串 string.md",
-    "storage/算法 algorithm/数据结构/对象 object.md",
     "未命名.canvas"
   ]
 }
